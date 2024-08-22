@@ -132,7 +132,3 @@ fn ex3() {
         }
     }
 }
-
-fn reademp() {
-    println!("Enter the Employee name");
-}
